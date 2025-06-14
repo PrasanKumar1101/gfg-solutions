@@ -1,5 +1,11 @@
 # 🧠 GFG Problem Solving Archive
 
+[![GitHub stars](https://img.shields.io/github/stars/PrasanKumar1101/gfg-solutions?style=social)](https://github.com/PrasanKumar1101/gfg-solutions/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/PrasanKumar1101/gfg-solutions)](https://github.com/PrasanKumar1101/gfg-solutions/commits/main)
+[![Languages](https://img.shields.io/github/languages/top/PrasanKumar1101/gfg-solutions)](https://github.com/PrasanKumar1101/gfg-solutions)
+[![License](https://img.shields.io/github/license/PrasanKumar1101/gfg-solutions)](https://github.com/PrasanKumar1101/gfg-solutions/blob/main/LICENSE)
+![GFG Problems Solved](https://img.shields.io/badge/GFG_Problems_Solved-97-brightgreen)
+
 This repository contains my GeeksforGeeks (GFG) solutions categorized by topic. Each problem includes:
 - ✅ Full problem statement as a comment
 - 🧩 Structured C++ solution
