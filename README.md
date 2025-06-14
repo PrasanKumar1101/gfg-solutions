@@ -9,19 +9,20 @@ This repository contains my GeeksforGeeks (GFG) solutions categorized by topic. 
 > ⚙️ Powered by a custom Python script that auto-generates solution files from clipboard content.
 
 ---
-
-### 📁 Folder Structure
+## 📁 Folder Structure
+```bash
 gfg-solutions/
 ├── arrays/
-│ ├── missing_number.cpp
-│ └── ...
+│   ├── missing_number.cpp
+│   └── ...
 ├── trees/
-│ ├── diameter_of_binary_tree.cpp
-│ └── ...
+│   ├── diameter_of_binary_tree.cpp
+│   └── ...
 ├── graphs/
-│ ├── number_of_islands.cpp
-│ └── ...
+│   ├── number_of_islands.cpp
+│   └── ...
 └── ...
+```
 
 
 ---
