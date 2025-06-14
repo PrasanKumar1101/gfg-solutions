@@ -10,8 +10,7 @@ This repository contains my GeeksforGeeks (GFG) solutions categorized by topic. 
 
 ---
 
-## 📁 Folder Structure
-
+### 📁 Folder Structure
 gfg-solutions/
 ├── arrays/
 │ ├── missing_number.cpp
